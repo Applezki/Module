@@ -1,0 +1,230 @@
+::: border
+Subject: General Mathematics
+:::
+
+---
+title: "Problem Solving and Reasoning"
+author: "Rochelle Salazar"
+format: html
+editor: visual
+---
+
+## I. LESSON OVERVIEW
+
+Mathematics seeks to understand patterns that permeate the world and human mind. Even if the language of mathematics is based on rules, it is important to motivate students to move beyond rules to be able to convey things in the language of mathematics. This transformation implies changes which involve revitalized effort to focus on seeking solutions, exploring patterns and formulating inferences. Learners will have opportunities to study mathematics as an exploratory, dynamic, evolving discipline. They will be encouraged to perceive mathematics as a science and to appreciate mathematics as a discipline about patterns and not merely about numbers.
+
+## II. LESSON CONTENT
+
+Mathematics consists of skills and processes. The skills include the basic arithmetical processes and the algorithms that go with them, while processes are the ways of applying these skills. Problem solving is a mathematical process and it contributes to mathematics itself.
+
+A.      Inductive and deductive reasoning
+
+B.      Intuition, proof and certainty
+
+C.     Polya's four steps in problem solving
+
+D.     Problem solving strategies
+
+E.      Mathematical problems involving patterns
+
+F.      Recreational problems using mathematics
+
+### Inductive and Deductive Reasoning
+
+Mathematical reasoning enables a student to use all other mathematical skills. With mathematical reasoning, students recognize that mathematics is indispensable; that it makes sense and it can be understood. They then learn how to evaluate situations, opt for appropriate problem-solving strategies, draw logical conclusions, develop and describe solutions, and identify when those solutions can be applied.
+
+Inductive and deductive reasoning are two fundamental types of reasoning for mathematicians. **Inductive reasoning** refers to the process of making generalized decisions after observing and/or witnessing, repeated specific instances of something. Conversely, **deductive reasoning** refers to the process of taking the information gathered from general observations and making specific decisions based on that information.
+
+Inductive reasoning is a process of reaching conclusions based on a series of observations while deductive reasoning is a process of reaching conclusions based on previously known facts. Inductive reasoning usually leads to deductive reasoning. A conclusion reached by inductive reasoning may or may not be valid. The conclusions reached by deductive reasoning are correct and valid. Inductive reasoning is used to form hypotheses, while deductive reasoning is used to prove ideas.
+
+Whereas inductive reasoning draws general principles from specific instances, deductive reasoning draws specific conclusions from general principles or premises. A premise is a previous statement or propositions from which another is inferred or follows as a conclusion. Unlike inductive reasoning, which always involves uncertainty. Scientists use inductive reasoning to formulate hypothesis and theories, and deductive reasoning when applying them to specific situations. Even if all the premises are true in a statement, inductive reasoning may still yield false conclusion.
+
+**Examples of Deductive Reasoning:**
+
++---------------------------------------------------------------------------------------------+
+| 1st Premise: All numbers ending in 0 or 5 are divisible by 5.                               |
+|                                                                                             |
+| 2nd Premise: The number 35 ends with a 5                                                    |
+|                                                                                             |
+| Conclusion: Therefore, 35 is divisible by 5                                                 |
++---------------------------------------------------------------------------------------------+
+| 1st Premise: All squares are rectangles                                                     |
+|                                                                                             |
+| 2nd Premise: All rectangles have four sides                                                 |
+|                                                                                             |
+| Conclusion: Therefore, all squares have four sides                                          |
++---------------------------------------------------------------------------------------------+
+| 1st Premise: Cacti are plants                                                               |
+|                                                                                             |
+| 2nd Premise: All plants perform photosynthesis                                              |
+|                                                                                             |
+| Conclusion: Therefore, cacti perform photosynthesis                                         |
++---------------------------------------------------------------------------------------------+
+| 1st Premise: All men are mortal                                                             |
+|                                                                                             |
+| 2nd Premise: Algebra teachers are men                                                       |
+|                                                                                             |
+| Conclusion: Therefore, algebra teachers are mortal                                          |
++---------------------------------------------------------------------------------------------+
+| 1st Premise: Some students of NVSU are taking up BSED Mathematics                           |
+|                                                                                             |
+| 2nd Premise: Students of this University are scholars                                       |
+|                                                                                             |
+| Conclusion: Therefore, students taking up BSED Mathematics in this University are scholars. |
++---------------------------------------------------------------------------------------------+
+
+**Examples of Inductive Reasoning**
+
++--------------------------------------------------------------------+
+| 1st Premise: Jaime is an excellent swimmer                         |
+|                                                                    |
+| 2nd Premise: Jaime's family has a swimming pool                    |
+|                                                                    |
+| Conclusion: Jaime's sister, Mary must also be an excellent swimmer |
++--------------------------------------------------------------------+
+| 1st Premise: David is good looking                                 |
+|                                                                    |
+| 2nd Premise: David is well-behaved                                 |
+|                                                                    |
+| Conclusion: Therefore, all good looking is well-behaved            |
++--------------------------------------------------------------------+
+| 1st Premise: Children in the day care center are playful           |
+|                                                                    |
+| 2nd Premise: Children in the day care center like to play Legos    |
+|                                                                    |
+| Conclusion: Therefore, playful children like to play Legos         |
++--------------------------------------------------------------------+
+| 1st Premise: A coin pulled from a bag is a penny                   |
+|                                                                    |
+| 2nd Premise: The second coin from the bag is a penny               |
+|                                                                    |
+| Conclusion: Therefore, all the coins in the bag are pennies        |
++--------------------------------------------------------------------+
+
+**Intuition, Proof, and Certainty**
+
+**Intuition** is the ability to understand something instinctively, without the need for conscious reasoning. It is instinctive knowledge, meaning the state of being aware of or knowing something without having to discover or perceive it, or the ability to do this. It is the instinctive belief, meaning that something is known or believed instinctively, without actual evidence for it.
+
+In the traditional way of dealing with mathematics, mathematicians use their intuition and imagination to come up with theorems. Then, they do a lot of work to try to fill in the proofs and check what's true.
+
+A **mathematical proof** is an argument which convinces other people that something is true. **Proof** is an inferential argument for a mathematical statement. It is a conclusive evidence or an argument that serves to establish a fact or the truth of something. Proof consists of a test or trial of something to establish that it is true.
+
+In direct proof, the conclusion is established by logically combining the axioms, definitions and earlier theorems.
+
+For example, direct proof can be used to establish that the sum of two even integers is always even: consider two even integers x and y. Since they are even, they can be written as x = 2a and y = 2b, respectively, for integers a and b. then the sum x + y = 2a + 2b = 2(a+b). Therefore, x + y has 2 as a factor and, by definition, is even. Hence the sum of any two integers is even. This proof uses the definition of even integers, the integer properties of closure under addition and multiplication and distributive.
+
+**Certainty** is total continuity and validity of inquiries to the highest degree of precision. Certainty is a conclusion or outcome that is beyond doubt. A mathematical certainty is something that is certain or most likely to happen
+
+**Polya's Four Steps to Problem Solving** Problem solving is an artistic science! There is no single approach in problem solving that works all the time. Each problem is slightly different. George Polya (1887-1985), known as the father of modern problem solving who did extensive studies and wrote papers and books about problem solving, formulated the four-step approach to problem solving. Polya's four-step approach to problem solving aims to make individuals as better problem solvers.
+
+Given below is a detailed framework for thinking about problem solving: Polya's four-step approach:
+
+1.  **Preparation**: Understand the problem
+
+```{=html}
+<!-- -->
+```
+a.  Learn the necessary underlying mathematical concepts
+b.  Consider the terminology and notation used in the problem:
+
+● What sort of a problem is it?
+
+● What is being asked?
+
+● What do the terms mean?
+
+● Is there enough information or is more information needed?
+
+● What is known or unknown?
+
+2.  **Thinking Time**: Devise a plan
+
+```{=html}
+<!-- -->
+```
+a.  You must start somewhere so try something. How are you going to attack the problem?
+b.  Possible strategies: (i. e. reach into your bag of tricks)
+
+```         
+●   Draw pictures
+
+●   Use a variable and choose helpful names for variables or unknowns.
+
+●   Be systematic.
+
+●   Solve a simpler version of the problem.
+
+●   Guess and check. Trial and error. Guess and test. (guessing is OK.)
+
+●   Look for a pattern or patterns.
+
+●   Make a list.
+```
+
+c.  Once you understand what the problem is, if you are stumped or stuck, set the problem aside for a while. Your subconscious mind may keep working on it.
+d.  Moving on to think about other things may help you stay relaxed, flexible, and creative rather than becoming tense, frustrated, and forced in your efforts to solve the problem.
+
+```{=html}
+<!-- -->
+```
+3.  **Insight**: Carry out the plan
+
+```{=html}
+<!-- -->
+```
+a.  Once you have an idea for a new approach, jot it down immediately. When you have time, try it out and see if it leads to a solution.
+b.  If the plan does not seem to be working, then start over and try another approach. Often the first approach does not work. Do not worry, just because an approach does not work, it does not mean you did it wrong. You actually accomplished something, knowing a way does not work is part of the process of elimination.
+c.  Once you have thought about a problem or returned to it enough times, you will often have a flash of insight: a new idea to try or a new perspective on how to approach solving the problem.
+d.  The key is to keep trying until something works.
+
+```{=html}
+<!-- -->
+```
+4.  **Verification**: Look back.
+
+```{=html}
+<!-- -->
+```
+a.  Once you have a potential solution, check to see if it works.
+
+```         
+●   Did you answer the question?
+
+●   Is your result reasonable?
+
+●   Double check to make sure that all of the conditions related to the problem are satisfied.
+
+●   Double check any computations involved in finding your solution.
+```
+
+b.  If you find that your solution does not work, there may only be a simple mistake. Try to fix or modify your current attempt before scrapping it. Remember what you tried- it is likely that at least part of it will end up being useful.
+c.  Is there another way of doing the problem which may be simpler? (You need to become flexible in your thinking. There usually is not one right away.)
+d.  Can the problem or method be generalized so as to be useful for future problems?
+
+**C. Problem Solving Strategies** Problem solving strategies maybe develop in many ways. First, the ability to use strategies develops with experience and practice. Second, strategies themselves can become more abstract and complex.
+
+There are simple and common problem solving strategies, to mention a few:
+
+● Guess (This includes guess-and-check and guess-and-improve)
+
+● Act it Out (Act it out and use equipment)
+
+● Draw (This includes drawing pictures and diagrams)
+
+● List/Tabulate (This includes making a table)
+
+**Guess-and-check** is a classic technique. While it may not be very efficient or reliable, sometimes it's all one has to work with. One nice thing about this technique is the low level of effort it requires. It can be a great way to relax the mind. **Guess-and-check** is one of the simplest strategies. Anyone can guess an answer. If they can also check that the guess fits the conditions of the problem, then they have mastered guess and check. Guess-and-improve is slightly more sophisticated than the guess-and-check. The idea is that you use your first incorrect guess to make an improved next guess. In relatively straightforward problems like that, it is often fairly easy to see how to improve the last guess. In some problems though, where there are more variables, it may not be clear at first which way to change the guessing jigsaw and crossword puzzles are usually solved using guess-and-check and guess-and-improve.
+
+There are pros and cons for **Act-It-Out** strategy. It is an effective strategy for demonstration purposes and to have a better grip of the problem on hand. Devices use to act out the problem are considered equipment. Act-It-Out strategy has limited application. Simple division operation problem can be solved by this strategy. A class of 32 elementary graders maybe asked: To effectively do the task, we shall divide the class. How many group of five can you make? Then, they can act-it-out by forming groups of five.
+
+To **draw pictures**, Venn diagram, sketches, maps and other representations help solve mathematical problems, as well as problems in mechanics (physics). Problems concerning vector addition, in fact, are solved in two ways: graphical or drawing methods and analytical or mathematical method. In doing so, precise measurements and careful drawing lead to accurate solution.
+
+Creating systematic **lists** and organized **tables** helps discover some hidden hints towards solution of some problems. To help solve logic problems, tables with ticks and crosses are often used. Tables can also be an efficient way of finding number patterns. Work and age problems are easier solved by tabulating the known facts and relations. Lists maybe organized following rules like highest to lowest, most frequent to less frequent, excellent to very unsatisfactory, etc. scores may be listed in an array in decreasing manner for item analysis purposes. Problems in statistics may be solved by listing, tallying and tabulating data
+
+**D. Mathematical Problems Involving Patterns**
+
+Finding patterns is an important problem-solving strategy because many problems are similar and fall into predictable patterns. A pattern is a regular, systematic repetition and may be numerical, visual, or sequential. Patterns show how things are connected, how things work and how a group of objects acts in the same way.
+
+**Example No. 1**: Find-a-pattern problem solving strategy.
+
+▪ Given the following diagram, find the number of dots and lines by completing the table.
